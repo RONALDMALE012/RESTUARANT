@@ -27,6 +27,8 @@ border-radius: 80%;
     text-decoration: none;
     display: inline-block;
     justify-content: center;
+    margin: 15px;
+      justify-content: space-between;
   }
   nav ul li  a{
     justify-content: space-around;
