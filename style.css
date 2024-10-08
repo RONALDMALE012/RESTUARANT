@@ -25,13 +25,11 @@ nav h1{
 }
   nav ul{
 list-style: none;
-border-radius: 80%;
   }  
   nav ul li{
     text-decoration: none;
     display: inline-block;
     justify-content: center;
-    margin: 15px;
       justify-content: space-between;
   }
   nav ul li  a{
