@@ -42,6 +42,23 @@ list-style: none;
   .active{
     color:rgb(255, 0, 0);
   }
+section{
+    display: flex;
+    background: url(./images/banana.jpg);
+    width: 100%;
+    height: fit-content;
+    align-items: center;
+    height: 400px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    justify-content: space-around;
+}
+section h1{
+    color: teal;
+    font-size: 40px;
+    font-weight: bold;
+}
 .main h1{
 align-items: center;
 color: green;
