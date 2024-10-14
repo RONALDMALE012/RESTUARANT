@@ -65,3 +65,10 @@ section h1{
 align-items: center;
 color: green;
 }
+footer {
+position: fixed;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: wheat;
+}
